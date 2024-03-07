@@ -1,0 +1,2 @@
+LeadID,Age,Gender,Location,LeadSource,TimeSpent (minutes),PagesViewed,LeadStatus,EmailSent,DeviceType,ReferralSource,FormSubmissions,Downloads,CTR_ProductPage,ResponseTime (hours),FollowUpEmails,SocialMediaEngagement,PaymentHistory,Conversion (Target)
+1,60,Female,Lahore,Organic,46,6,Hot,10,Mobile,Facebook,2,3,0.8,11,3,54,Good,0

@@ -1,0 +1,25 @@
+LeadID,Age,Gender,Location,LeadSource,TimeSpent (minutes),PagesViewed,LeadStatus,EmailSent,DeviceType,ReferralSource,FormSubmissions,Downloads,CTR_ProductPage,ResponseTime (hours),FollowUpEmails,SocialMediaEngagement,PaymentHistory,Conversion (Target)
+1,60,Female,Lahore,Organic,46,6,Hot,10,Mobile,Facebook,2,3,0.8,11,3,54,Good,0
+2,27,Male,Lahore,Email,42,8,Warm,6,Tablet,Direct,1,1,0.4,23,2,35,No Payment,0
+3,21,Male,Sialkot,Email,56,11,Cold,1,Tablet,Direct,5,3,0.5,8,0,34,Good,0
+4,37,Female,Quetta,Organic,24,15,Cold,6,Tablet,Direct,1,1,0.7,10,3,59,Good,0
+5,35,Female,Quetta,Email,39,14,Hot,10,Desktop,Direct,1,3,0.5,13,5,35,Good,0
+6,34,Male,Gujranwala,Referral,56,9,Hot,6,Desktop,ReferralSite,3,3,0.8,15,7,23,No Payment,0
+7,28,Female,Sialkot,Social Media,17,10,Cold,2,Desktop,Twitter,0,3,0.6,17,2,119,Good,0
+8,26,Female,Multan,Referral,25,3,Cold,8,Tablet,Twitter,0,3,0.1,13,1,48,No Payment,0
+9,54,Female,Lahore,Social Media,28,14,Hot,10,Tablet,Google,5,2,0.7,16,3,188,No Payment,0
+10,25,Female,Peshawar,Referral,17,14,Warm,2,Desktop,Twitter,1,1,0.6,14,2,155,No Payment,0
+11,57,Male,Peshawar,Referral,39,14,Warm,5,Mobile,ReferralSite,1,1,0.4,13,4,120,Good,0
+12,47,Female,Multan,Social Media,10,6,Cold,2,Desktop,ReferralSite,3,1,0.3,22,7,41,No Payment,0
+13,22,Male,Karachi,Organic,5,8,Warm,0,Tablet,Facebook,1,0,0.1,11,1,46,No Payment,0
+14,21,Female,Lahore,Referral,30,15,Cold,7,Desktop,ReferralSite,3,2,0.2,15,4,149,No Payment,0
+15,25,Female,Gujranwala,Referral,32,5,Cold,7,Mobile,Google,3,1,0.3,17,4,110,Good,0
+16,33,Male,Karachi,Organic,30,9,Cold,1,Desktop,Google,5,1,0.4,23,10,101,Good,0
+17,34,Female,Karachi,Email,10,2,Warm,3,Mobile,ReferralSite,3,1,0.3,19,10,94,No Payment,0
+18,52,Female,Multan,Email,16,9,Warm,9,Tablet,Facebook,3,2,0.1,4,8,116,Good,0
+19,58,Male,Faisalabad,Referral,40,13,Hot,6,Mobile,Twitter,3,3,0.7,7,8,92,Good,0
+20,21,Female,Faisalabad,Social Media,55,12,Warm,5,Tablet,Facebook,1,3,0.5,6,7,52,No Payment,0
+21,55,Male,Karachi,Referral,11,5,Cold,5,Tablet,Direct,1,3,0.6,14,8,37,Good,0
+22,32,Male,Islamabad,Social Media,60,15,Hot,4,Desktop,Facebook,1,2,0.1,14,4,115,Good,1
+23,54,Female,Quetta,Email,29,3,Cold,8,Tablet,Google,0,1,0.3,10,5,90,Good,0
+24,46,Male,Quetta,Email,22,7,Cold,8,Mobile,Google,5,1,0.3,21,9,176,Good,0
