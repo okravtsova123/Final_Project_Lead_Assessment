@@ -1,0 +1,4 @@
+Error_metric,Train,Test
+Accuracy,1.0,0.8256968005834416
+Precision,1.0,0.07262761219595752
+Recall,1.0,0.8362919132149902
